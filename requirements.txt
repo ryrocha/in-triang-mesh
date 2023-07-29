@@ -1,0 +1,6 @@
+# Fixed requirements used to develop/test the functionality in this package
+numpy==1.24.4
+matplotlib==3.7.2
+numpy-stl==3.0.1
+pytest==7.4.0
+build==0.10.0
